@@ -3,7 +3,7 @@
 Make that thing of yours even better. I can help either with the big picture or with specifics.
 
 😏 ABOUT ME?
-Sure! I'm Mohammad Khafas, a passionate junior front-end web developer based in Germany. I've completed a one-year apprenticeship as an IT Specialist for Web Development, where I honed my skills in HTML/CSS, Bootstrap 5, JavaScript, SASS, and Vue.js at NetMarket PMS GmbH.
+Sure! I'm jlt, a passionate junior front-end web developer based in Germany. I've completed a one-year apprenticeship as an IT Specialist for Web Development, where I honed my skills in HTML/CSS, Bootstrap 5, JavaScript, SASS, and Vue.js at NetMarket PMS GmbH.
 
 At Georg-Simon-Ohm-Berufskolleg in Cologne, I expanded my knowledge by learning Python and other fundamental theories. My education didn't stop there; I've devoted over 5,000 hours to self-study over 14 months, earning more than 80 international certifications from platforms like LinkedIn Learning, freeCodeCamp, and Codecademy.
 
